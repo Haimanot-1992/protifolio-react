@@ -76,7 +76,7 @@ const INFO = {
 				" is a developer's showcase website that highlights their skills, projects, and professional journey",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Haimanot-1992/protifolio-react",
 		},
 	],
 };
