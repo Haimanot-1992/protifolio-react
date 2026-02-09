@@ -67,7 +67,7 @@ const INFO = {
 				"Fostering collaborative learning among students by sharing knowledge, supporting peers, and enhancing understanding through discussion.",
 			logo: "https://evangadi-frorum-haimanot.netlify.app/",
 			linkText: "View Project",
-			link: "https://github.com/Haimanot-1992/Evangadi-frorum-Haimanot",
+			link: "https://evangadi-frorum-haimanot.netlify.app/",
 		},
 
 		{
