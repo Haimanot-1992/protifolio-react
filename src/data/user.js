@@ -40,7 +40,7 @@ const INFO = {
 				"It is a front-end web application clone that replicates core features of the Netflix streaming service using the React library (often with additional tools like Firebase, TMDB API, and CSS-in-JS)",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/Haimanot-1992/Netflix_June_2025",
+			link: "https://netflih2025june.netlify.app/",
 		},
 
 		{
@@ -49,7 +49,7 @@ const INFO = {
 				"is e-commerce web application clone that replicates core shopping and user interaction features of Amazon using React and modern frontend tools",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/Haimanot-1992/amazonclone",
+			link: "https://amazonclonedited.netlify.app/",
 		},
 
 		{
@@ -58,14 +58,14 @@ const INFO = {
 				"is a server-side application that powers the core e-commerce logic, data management, and APIs for an Amazon-like platform.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/Haimanot-1992/amazon-api-deploy",
+			link: "https://amazon-api-deploy-ox0g.onrender.com",
 		},
 
 		{
 			title: "Evangadi Forum Project",
 			description:
 				"Fostering collaborative learning among students by sharing knowledge, supporting peers, and enhancing understanding through discussion.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://evangadi-frorum-haimanot.netlify.app/",
 			linkText: "View Project",
 			link: "https://github.com/Haimanot-1992/Evangadi-frorum-Haimanot",
 		},
@@ -76,7 +76,7 @@ const INFO = {
 				" is a developer's showcase website that highlights their skills, projects, and professional journey",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/Haimanot-1992/protifolio-react",
+			link: "https://myportifoliopage.netlify.app/",
 		},
 	],
 };
