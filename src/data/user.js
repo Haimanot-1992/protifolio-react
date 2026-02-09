@@ -65,7 +65,7 @@ const INFO = {
 			title: "Evangadi Forum Project",
 			description:
 				"Fostering collaborative learning among students by sharing knowledge, supporting peers, and enhancing understanding through discussion.",
-			logo: "https://evangadi-frorum-haimanot.netlify.app/",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://evangadi-frorum-haimanot.netlify.app/",
 		},
