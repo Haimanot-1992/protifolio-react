@@ -57,8 +57,8 @@ const INFO = {
 			description:
 				"is a server-side application that powers the core e-commerce logic, data management, and APIs for an Amazon-like platform.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://amazon-api-deploy-ox0g.onrender.com",
+			// linkText: "View Project",
+			// link: "https://amazon-api-deploy-ox0g.onrender.com",
 		},
 
 		{
@@ -75,8 +75,8 @@ const INFO = {
 			description:
 				" is a developer's showcase website that highlights their skills, projects, and professional journey",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://myportifoliopage.netlify.app/",
+			// linkText: "View Project",
+			// link: "https://myportifoliopage.netlify.app/",
 		},
 	],
 };
